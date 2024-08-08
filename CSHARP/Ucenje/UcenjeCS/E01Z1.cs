@@ -9,8 +9,18 @@ namespace UcenjeCS
             //zadatak
             //Korisnik unosi dva cijela broja i ispisuje njihov zbroj
 
-            int a=2,b=3;
+            int a, b;
+
+            Console.Write("a="); ;
+            a=int.Parse(Console.ReadLine());
+            Console.Write("b="); ;
+            b=int.Parse(Console.ReadLine());
+
             Console.WriteLine(a+b);
+
+
+
+
 
 
 
