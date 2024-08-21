@@ -13,7 +13,9 @@
 using UcenjeCS;
 using UcenjeCS.E13KlasaObjekt;
 
-new UcenjeCS.E15RadSStringovima.Program();
+new UcenjeCS.E16GenericiLambdaEkstenzije.Program();
+
+//new UcenjeCS.E15RadSStringovima.Program();
 
 //new UcenjeCS.Nasljedivanje.Program();
 
