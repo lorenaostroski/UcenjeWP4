@@ -13,9 +13,11 @@
 using UcenjeCS;
 using UcenjeCS.E13KlasaObjekt;
 
-new UcenjeCS.E18KonzolnaAplikacija.Izbornik();
+//new UcenjeCS.Ljubavni_kalkulator.Program();
 
-//new UcenjeCS.E17Subota.Raspored();
+//new UcenjeCS.E18KonzolnaAplikacija.Izbornik();
+
+new UcenjeCS.E17Subota.Raspored();
 
 //new UcenjeCS.E17Subota.Program();
 
